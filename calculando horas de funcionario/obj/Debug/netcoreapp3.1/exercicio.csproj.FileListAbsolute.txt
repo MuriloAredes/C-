@@ -1,0 +1,13 @@
+C:\Users\Muril\source\repos\exercicio\bin\Debug\netcoreapp3.1\exercicio.exe
+C:\Users\Muril\source\repos\exercicio\bin\Debug\netcoreapp3.1\exercicio.deps.json
+C:\Users\Muril\source\repos\exercicio\bin\Debug\netcoreapp3.1\exercicio.runtimeconfig.json
+C:\Users\Muril\source\repos\exercicio\bin\Debug\netcoreapp3.1\exercicio.runtimeconfig.dev.json
+C:\Users\Muril\source\repos\exercicio\bin\Debug\netcoreapp3.1\exercicio.dll
+C:\Users\Muril\source\repos\exercicio\bin\Debug\netcoreapp3.1\exercicio.pdb
+C:\Users\Muril\source\repos\exercicio\obj\Debug\netcoreapp3.1\exercicio.AssemblyInfoInputs.cache
+C:\Users\Muril\source\repos\exercicio\obj\Debug\netcoreapp3.1\exercicio.AssemblyInfo.cs
+C:\Users\Muril\source\repos\exercicio\obj\Debug\netcoreapp3.1\exercicio.csproj.CoreCompileInputs.cache
+C:\Users\Muril\source\repos\exercicio\obj\Debug\netcoreapp3.1\exercicio.dll
+C:\Users\Muril\source\repos\exercicio\obj\Debug\netcoreapp3.1\exercicio.pdb
+C:\Users\Muril\source\repos\exercicio\obj\Debug\netcoreapp3.1\exercicio.genruntimeconfig.cache
+C:\Users\Muril\source\repos\exercicio\obj\Debug\netcoreapp3.1\exercicio.csprojAssemblyReference.cache

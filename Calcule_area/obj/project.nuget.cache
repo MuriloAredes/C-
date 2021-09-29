@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/rDhhvga7fy6xsPKvb1bWgPAxgHz5KNSxx0ndnztOnSFfa2Kl8SkWknj90wI4f8jgPKBqQiQRyifcIgpQx0QpQ==",
+  "success": true,
+  "projectFilePath": "D:\\DEVELOPER\\BACK-END\\Exercicio1\\Calcule_area.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Muril\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
