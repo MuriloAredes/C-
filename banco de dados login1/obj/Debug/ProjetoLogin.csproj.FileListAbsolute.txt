@@ -1,0 +1,25 @@
+C:\Users\Muril\source\repos\banco de dados\bin\Debug\banco de dados.exe.config
+C:\Users\Muril\source\repos\banco de dados\bin\Debug\banco de dados.exe
+C:\Users\Muril\source\repos\banco de dados\bin\Debug\banco de dados.pdb
+C:\Users\Muril\source\repos\banco de dados\obj\Debug\ProjetoLogin.csprojAssemblyReference.cache
+C:\Users\Muril\source\repos\banco de dados\obj\Debug\banco_de_dados.Apresentacao.BemVindas.resources
+C:\Users\Muril\source\repos\banco de dados\obj\Debug\banco_de_dados.Apresentacao.CadastreSe.resources
+C:\Users\Muril\source\repos\banco de dados\obj\Debug\banco_de_dados.Form1.resources
+C:\Users\Muril\source\repos\banco de dados\obj\Debug\banco_de_dados.Properties.Resources.resources
+C:\Users\Muril\source\repos\banco de dados\obj\Debug\ProjetoLogin.csproj.GenerateResource.cache
+C:\Users\Muril\source\repos\banco de dados\obj\Debug\ProjetoLogin.csproj.CoreCompileInputs.cache
+C:\Users\Muril\source\repos\banco de dados\obj\Debug\banco de dados.exe
+C:\Users\Muril\source\repos\banco de dados\obj\Debug\banco de dados.pdb
+E:\DEVELOPER\BACK-END\banco de dados\bin\Debug\banco de dados.exe.config
+E:\DEVELOPER\BACK-END\banco de dados\bin\Debug\banco de dados.exe
+E:\DEVELOPER\BACK-END\banco de dados\bin\Debug\banco de dados.pdb
+E:\DEVELOPER\BACK-END\banco de dados\obj\Debug\ProjetoLogin.csprojAssemblyReference.cache
+E:\DEVELOPER\BACK-END\banco de dados\obj\Debug\banco_de_dados.Apresentacao.BemVindas.resources
+E:\DEVELOPER\BACK-END\banco de dados\obj\Debug\banco_de_dados.Apresentacao.CadastreSe.resources
+E:\DEVELOPER\BACK-END\banco de dados\obj\Debug\banco_de_dados.Form1.resources
+E:\DEVELOPER\BACK-END\banco de dados\obj\Debug\banco_de_dados.Apresentacao.splash.resources
+E:\DEVELOPER\BACK-END\banco de dados\obj\Debug\banco_de_dados.Properties.Resources.resources
+E:\DEVELOPER\BACK-END\banco de dados\obj\Debug\ProjetoLogin.csproj.GenerateResource.cache
+E:\DEVELOPER\BACK-END\banco de dados\obj\Debug\ProjetoLogin.csproj.CoreCompileInputs.cache
+E:\DEVELOPER\BACK-END\banco de dados\obj\Debug\banco de dados.exe
+E:\DEVELOPER\BACK-END\banco de dados\obj\Debug\banco de dados.pdb
