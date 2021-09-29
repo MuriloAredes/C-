@@ -1,0 +1,45 @@
+G:\DEVELOPER\BACK-END\Curso Csharp\obj\Debug\netcoreapp3.1\Curso Csharp.csprojAssemblyReference.cache
+G:\DEVELOPER\BACK-END\Curso Csharp\obj\Debug\netcoreapp3.1\Curso Csharp.AssemblyInfoInputs.cache
+G:\DEVELOPER\BACK-END\Curso Csharp\obj\Debug\netcoreapp3.1\Curso Csharp.AssemblyInfo.cs
+G:\DEVELOPER\BACK-END\Curso Csharp\obj\Debug\netcoreapp3.1\Curso Csharp.csproj.CoreCompileInputs.cache
+G:\DEVELOPER\BACK-END\Curso Csharp\bin\Debug\netcoreapp3.1\Curso Csharp.exe
+G:\DEVELOPER\BACK-END\Curso Csharp\bin\Debug\netcoreapp3.1\Curso Csharp.deps.json
+G:\DEVELOPER\BACK-END\Curso Csharp\bin\Debug\netcoreapp3.1\Curso Csharp.runtimeconfig.json
+G:\DEVELOPER\BACK-END\Curso Csharp\bin\Debug\netcoreapp3.1\Curso Csharp.runtimeconfig.dev.json
+G:\DEVELOPER\BACK-END\Curso Csharp\bin\Debug\netcoreapp3.1\Curso Csharp.dll
+G:\DEVELOPER\BACK-END\Curso Csharp\bin\Debug\netcoreapp3.1\Curso Csharp.pdb
+G:\DEVELOPER\BACK-END\Curso Csharp\obj\Debug\netcoreapp3.1\Curso Csharp.dll
+G:\DEVELOPER\BACK-END\Curso Csharp\obj\Debug\netcoreapp3.1\Curso Csharp.pdb
+G:\DEVELOPER\BACK-END\Curso Csharp\obj\Debug\netcoreapp3.1\Curso Csharp.genruntimeconfig.cache
+E:\DEVELOPER\BACK-END\Curso Csharp\bin\Debug\netcoreapp3.1\Curso Csharp.exe
+E:\DEVELOPER\BACK-END\Curso Csharp\bin\Debug\netcoreapp3.1\Curso Csharp.deps.json
+E:\DEVELOPER\BACK-END\Curso Csharp\bin\Debug\netcoreapp3.1\Curso Csharp.runtimeconfig.json
+E:\DEVELOPER\BACK-END\Curso Csharp\bin\Debug\netcoreapp3.1\Curso Csharp.runtimeconfig.dev.json
+E:\DEVELOPER\BACK-END\Curso Csharp\bin\Debug\netcoreapp3.1\Curso Csharp.dll
+E:\DEVELOPER\BACK-END\Curso Csharp\bin\Debug\netcoreapp3.1\Curso Csharp.pdb
+E:\DEVELOPER\BACK-END\Curso Csharp\obj\Debug\netcoreapp3.1\Curso Csharp.csprojAssemblyReference.cache
+E:\DEVELOPER\BACK-END\Curso Csharp\obj\Debug\netcoreapp3.1\Curso Csharp.AssemblyInfoInputs.cache
+E:\DEVELOPER\BACK-END\Curso Csharp\obj\Debug\netcoreapp3.1\Curso Csharp.AssemblyInfo.cs
+E:\DEVELOPER\BACK-END\Curso Csharp\obj\Debug\netcoreapp3.1\Curso Csharp.csproj.CoreCompileInputs.cache
+E:\DEVELOPER\BACK-END\Curso Csharp\obj\Debug\netcoreapp3.1\Curso Csharp.dll
+E:\DEVELOPER\BACK-END\Curso Csharp\obj\Debug\netcoreapp3.1\Curso Csharp.pdb
+E:\DEVELOPER\BACK-END\Curso Csharp\obj\Debug\netcoreapp3.1\Curso Csharp.genruntimeconfig.cache
+E:\DEVELOPER\BACK-END\Curso Csharp\bin\Debug\netcoreapp3.1\Encapsulamento.dll
+E:\DEVELOPER\BACK-END\Curso Csharp\bin\Debug\netcoreapp3.1\Encapsulamento.pdb
+E:\DEVELOPER\BACK-END\Curso Csharp\obj\Debug\netcoreapp3.1\Curso Csharp.csproj.CopyComplete
+A:\DEVELOPER\BACK-END\Curso Csharp\bin\Debug\netcoreapp3.1\Curso Csharp.exe
+A:\DEVELOPER\BACK-END\Curso Csharp\bin\Debug\netcoreapp3.1\Curso Csharp.deps.json
+A:\DEVELOPER\BACK-END\Curso Csharp\bin\Debug\netcoreapp3.1\Curso Csharp.runtimeconfig.json
+A:\DEVELOPER\BACK-END\Curso Csharp\bin\Debug\netcoreapp3.1\Curso Csharp.runtimeconfig.dev.json
+A:\DEVELOPER\BACK-END\Curso Csharp\bin\Debug\netcoreapp3.1\Curso Csharp.dll
+A:\DEVELOPER\BACK-END\Curso Csharp\bin\Debug\netcoreapp3.1\Curso Csharp.pdb
+A:\DEVELOPER\BACK-END\Curso Csharp\bin\Debug\netcoreapp3.1\Encapsulamento.dll
+A:\DEVELOPER\BACK-END\Curso Csharp\bin\Debug\netcoreapp3.1\Encapsulamento.pdb
+A:\DEVELOPER\BACK-END\Curso Csharp\obj\Debug\netcoreapp3.1\Curso Csharp.csprojAssemblyReference.cache
+A:\DEVELOPER\BACK-END\Curso Csharp\obj\Debug\netcoreapp3.1\Curso Csharp.AssemblyInfoInputs.cache
+A:\DEVELOPER\BACK-END\Curso Csharp\obj\Debug\netcoreapp3.1\Curso Csharp.AssemblyInfo.cs
+A:\DEVELOPER\BACK-END\Curso Csharp\obj\Debug\netcoreapp3.1\Curso Csharp.csproj.CoreCompileInputs.cache
+A:\DEVELOPER\BACK-END\Curso Csharp\obj\Debug\netcoreapp3.1\Curso Csharp.csproj.CopyComplete
+A:\DEVELOPER\BACK-END\Curso Csharp\obj\Debug\netcoreapp3.1\Curso Csharp.dll
+A:\DEVELOPER\BACK-END\Curso Csharp\obj\Debug\netcoreapp3.1\Curso Csharp.pdb
+A:\DEVELOPER\BACK-END\Curso Csharp\obj\Debug\netcoreapp3.1\Curso Csharp.genruntimeconfig.cache
