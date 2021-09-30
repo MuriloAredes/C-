@@ -1,0 +1,13 @@
+C:\Users\Muril\source\repos\CALCULADORA\bin\Debug\netcoreapp3.1\CALCULADORA.exe
+C:\Users\Muril\source\repos\CALCULADORA\bin\Debug\netcoreapp3.1\CALCULADORA.deps.json
+C:\Users\Muril\source\repos\CALCULADORA\bin\Debug\netcoreapp3.1\CALCULADORA.runtimeconfig.json
+C:\Users\Muril\source\repos\CALCULADORA\bin\Debug\netcoreapp3.1\CALCULADORA.runtimeconfig.dev.json
+C:\Users\Muril\source\repos\CALCULADORA\bin\Debug\netcoreapp3.1\CALCULADORA.dll
+C:\Users\Muril\source\repos\CALCULADORA\bin\Debug\netcoreapp3.1\CALCULADORA.pdb
+C:\Users\Muril\source\repos\CALCULADORA\obj\Debug\netcoreapp3.1\CALCULADORA.csprojAssemblyReference.cache
+C:\Users\Muril\source\repos\CALCULADORA\obj\Debug\netcoreapp3.1\CALCULADORA.AssemblyInfoInputs.cache
+C:\Users\Muril\source\repos\CALCULADORA\obj\Debug\netcoreapp3.1\CALCULADORA.AssemblyInfo.cs
+C:\Users\Muril\source\repos\CALCULADORA\obj\Debug\netcoreapp3.1\CALCULADORA.csproj.CoreCompileInputs.cache
+C:\Users\Muril\source\repos\CALCULADORA\obj\Debug\netcoreapp3.1\CALCULADORA.dll
+C:\Users\Muril\source\repos\CALCULADORA\obj\Debug\netcoreapp3.1\CALCULADORA.pdb
+C:\Users\Muril\source\repos\CALCULADORA\obj\Debug\netcoreapp3.1\CALCULADORA.genruntimeconfig.cache
